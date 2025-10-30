@@ -4,7 +4,7 @@ Install:
 npm install @solendon/react-native-drawer
 ```
 ## Library only uses pure react native tags without native ios, android dependencies (solution for @react-navigation/drawer installation error)
-<img  width="200" height="400" src="https://github.com/solendon/react-native-drawer/blob/master/image.gif">
+<img  width="200" height="401" src="https://github.com/solendon/react-native-drawer/blob/master/image.gif">
 
 ```ts
 import React from 'react'
