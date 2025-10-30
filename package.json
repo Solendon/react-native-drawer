@@ -5,7 +5,9 @@
   "description": "react-native-drawer",
   "author": "phamha98",
   "main": "index.tsx",
-  "scripts": {},
+  "scripts": {
+    "push":"npm version patch -m `version v%s` && npm publish --access public"
+  },
   "license": "ISC",
   "keywords": [
     "drawer-layout",
