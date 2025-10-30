@@ -1,6 +1,9 @@
 //@ts-nocheck
 //@ts-nocheck
 //@ts-nocheck
+//@ts-nocheck
+//@ts-nocheck
+//@ts-nocheck
 import React from 'react'
 import { Dimensions, Text, View } from 'react-native'
 import DrawerLayout from './index'
